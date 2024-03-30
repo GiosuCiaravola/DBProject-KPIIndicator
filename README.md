@@ -4,4 +4,4 @@ Repository for the DataBase project A.Y. 2022/2023 by the group composed of Ciar
 
 In this repository, you'll find:
 - The source code for creating and populating the database (SQL), including the presence of some triggers based on our personal evaluations, and some test queries for various use cases;
-- The final report in which all the choices made and the detailed design are illustrated.
+- The final report in which all the choices made and the detailed design are illustrated (in italian).
